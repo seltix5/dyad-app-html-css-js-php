@@ -14,41 +14,13 @@ This template exists to **enforce a pure stack** of HTML, CSS, JS, and PHP — e
 
 ## 🛠 Tech Stack
 
-- **Frontend:** HTML5, CSS3, Vanilla JavaScript (ES6+)  
-- **Backend:** PHP (7 or 8)  
-- **UI Framework:** Bootstrap 5  
-- **Icons:** Font Awesome  
-
----
-
-## 📖 Development Rules
-
-- Use **HTML5** for semantic structure  
-- Style with **CSS3** (no inline styles)  
-- Interactivity via **vanilla JavaScript (ES6+)** — no React, Vue, Angular, or TypeScript  
-- **PHP** for server-side logic and templating  
-- **Bootstrap 5** for layout and components  
-- **Font Awesome** for icons  
-
----
-
-## ✨ Coding Guidelines
-
-- Clean, modular, and well-commented code  
-- Prioritize Bootstrap classes for layout and components  
-- Ensure accessibility (semantic HTML, alt text, aria-labels)  
-- Fully responsive and cross-browser compatible  
-- Optimize for clarity and maintainability  
-
----
-
-## 🚫 Forbidden Technologies
-
-- React, Vue, Angular, or any frontend JS framework  
-- Node.js or any backend framework besides PHP  
-- Tailwind CSS or other utility-first CSS frameworks  
-- TypeScript, JSX  
-- Build tools like Vite, Webpack, etc.  
+- **Frontend Markup:** HTML5
+- **Frontend Styling:** CSS3
+- **Frontend Logic:** Vanilla JavaScript (ES6+)
+- **Backend:** PHP 8.x (or 7.4+)
+- **UI Framework:** Bootstrap 5.x
+- **Icons:** Font Awesome 7.x
+For the full, authoritative list of rules, conventions, and detailed guidelines (coding style, file structure, security, performance, and forbidden technologies) see [AI_RULES.md](AI_RULES.md) in this repository.
 
 ---
 
@@ -56,3 +28,10 @@ This template exists to **enforce a pure stack** of HTML, CSS, JS, and PHP — e
 
 1. In **Dyad**, go to:  Apps -> Import App -> GitHub URL
 2. Enter this repository URL:  https://github.com/seltix5/dyad-app-html-css-js-php
+
+---
+
+## License
+
+This project is provided as an example template for Dyad.  
+Feel free to modify and extend it under your own usage terms.
