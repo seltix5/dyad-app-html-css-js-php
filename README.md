@@ -21,7 +21,7 @@ This template exists to **enforce a pure stack** of HTML, CSS, JS, and PHP — e
 - **UI Framework:** Bootstrap 5.x
 - **Icons:** Font Awesome 7.x
 
-For the full, authoritative list of rules, conventions, and detailed guidelines (coding style, file structure, security, performance, and forbidden technologies) see [AI_RULES.md](AI_RULES.md) in this repository.
+For the full list of rules, conventions, and detailed guidelines (coding style, file structure, security, performance, and forbidden technologies) see [AI_RULES.md](AI_RULES.md) in this repository. You may edit this file to fit your project’s needs and preferences.
 
 ---
 
