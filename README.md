@@ -20,6 +20,7 @@ This template exists to **enforce a pure stack** of HTML, CSS, JS, and PHP — e
 - **Backend:** PHP 8.x (or 7.4+)
 - **UI Framework:** Bootstrap 5.x
 - **Icons:** Font Awesome 7.x
+
 For the full, authoritative list of rules, conventions, and detailed guidelines (coding style, file structure, security, performance, and forbidden technologies) see [AI_RULES.md](AI_RULES.md) in this repository.
 
 ---
