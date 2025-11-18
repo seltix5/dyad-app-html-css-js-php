@@ -7,7 +7,7 @@ By importing this repository into Dyad, you will generate a **basic project usin
 
 ## 🚀 Purpose
 
-Dyad by default scaffolds new projects with **React** and other modern libraries.  
+Dyad by default creates new projects with **React** and other modern libraries.  
 This template exists to **enforce a pure stack** of HTML, CSS, JS, and PHP — ensuring developers can start from a clean baseline without frontend or backend frameworks beyond the approved ones.
 
 ---
