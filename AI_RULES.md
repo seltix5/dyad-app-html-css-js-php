@@ -9,7 +9,7 @@ This document outlines the technical stack and development guidelines for buildi
 - Frontend Logic: Vanilla JavaScript (ES6+)
 - Backend: PHP 8.x (or 7.4+)
 - UI Framework: Bootstrap 5.x
-- Icons: Font Awesome 7.x (or 6.5+)
+- Icons: Font Awesome 7.x (or 6.7.2)
 
 ## Library Usage Guidelines
 
@@ -52,7 +52,7 @@ This document outlines the technical stack and development guidelines for buildi
 - Use Bootstrap's responsive utilities 
 
 ### Font Awesome Usage
-- Use Font Awesome 7.x or 6.5+ for icons to enhance UI clarity
+- Use Font Awesome 7.x or 6.7.2 for icons to enhance UI clarity
 - Use `aria-hidden="true"` on decorative icons
 - Provide text alternatives or labels for meaningful icons
 
