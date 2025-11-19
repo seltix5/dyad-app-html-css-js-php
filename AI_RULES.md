@@ -141,3 +141,8 @@ This document outlines the technical stack and development guidelines for buildi
 - Add comments to complex sections
 - Suggest improvements when reviewing existing code
 - Respect project constraints without suggesting alternatives outside this stack
+
+### CRITICAL: Complete Code Output Rules
+
+- ALWAYS provide COMPLETE, FULLY FUNCTIONAL code. NEVER truncate or use placeholder comments
+- Placeholder comments ONLY acceptable in NEW code when the user hasn't specified what goes there
